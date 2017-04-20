@@ -1,0 +1,34 @@
+﻿{
+  "Name": "MainForm",
+  "buttonSet": [],
+  "imageSet": [],
+  "labelSet": [
+    {
+      "FontSize": 1,
+      "Name": "lbHint",
+      "Text": "打开：Enter  退出：Esc",
+      "Left": 12,
+      "Top": 559
+    },
+    {
+      "FontSize": 3,
+      "Name": "lbCaption",
+      "Text": "照片图库",
+      "Left": 6,
+      "Top": 9
+    }
+  ],
+  "listSet": [
+    {
+      "Name": "lbPicList",
+      "Left": 12,
+      "Top": 84,
+      "Items": [],
+      "Width": 750,
+      "Height": 464,
+      "FontSize": 1,
+      "SelectedIndex": -1
+    }
+  ],
+  "panelSet": []
+}

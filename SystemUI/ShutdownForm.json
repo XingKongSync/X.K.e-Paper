@@ -1,0 +1,55 @@
+﻿{
+  "Name": "ShutdownForm",
+  "buttonSet": [],
+  "imageSet": [
+    {
+      "SkipPreProceed": false,
+      "Width": 51,
+      "Height": 54,
+      "Name": "pbDisconnect",
+      "Left": 583,
+      "Top": 347
+    },
+    {
+      "SkipPreProceed": false,
+      "Width": 54,
+      "Height": 54,
+      "Name": "pbEarth",
+      "Left": 166,
+      "Top": 347
+    },
+    {
+      "SkipPreProceed": false,
+      "Width": 28,
+      "Height": 29,
+      "Name": "pbCopyright",
+      "Left": 249,
+      "Top": 550
+    },
+    {
+      "SkipPreProceed": false,
+      "Width": 540,
+      "Height": 93,
+      "Name": "pbLogo",
+      "Left": 136,
+      "Top": 154
+    }
+  ],
+  "labelSet": [
+    {
+      "FontSize": 1,
+      "Name": "lbCompany",
+      "Text": "XingKong Corporation",
+      "Left": 280,
+      "Top": 547
+    },
+    {
+      "FontSize": 1,
+      "Name": "lbMessage",
+      "Text": "已断开与世界的连接",
+      "Left": 260,
+      "Top": 357
+    }
+  ],
+  "panelSet": []
+}

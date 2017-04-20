@@ -1,0 +1,184 @@
+﻿{
+  "Name": "KuaidiInfoForm",
+  "buttonSet": [],
+  "imageSet": [],
+  "labelSet": [
+    {
+      "FontSize": 1,
+      "Name": "lbg3g4",
+      "Text": "|",
+      "Left": 53,
+      "Top": 417
+    },
+    {
+      "FontSize": 1,
+      "Name": "lbg2g3",
+      "Text": "|",
+      "Left": 53,
+      "Top": 304
+    },
+    {
+      "FontSize": 1,
+      "Name": "lbg1g2",
+      "Text": "|",
+      "Left": 53,
+      "Top": 191
+    },
+    {
+      "FontSize": 1,
+      "Name": "lbg4r2",
+      "Text": "信息已录入",
+      "Left": 90,
+      "Top": 491
+    },
+    {
+      "FontSize": 1,
+      "Name": "lbg4r1",
+      "Text": "2017-3-19 15:44:53",
+      "Left": 90,
+      "Top": 456
+    },
+    {
+      "FontSize": 1,
+      "Name": "lbg4l3",
+      "Text": "|",
+      "Left": 53,
+      "Top": 501
+    },
+    {
+      "FontSize": 1,
+      "Name": "lbg4l2",
+      "Text": "○",
+      "Left": 40,
+      "Top": 476
+    },
+    {
+      "FontSize": 1,
+      "Name": "lbg4l1",
+      "Text": "|",
+      "Left": 53,
+      "Top": 446
+    },
+    {
+      "FontSize": 1,
+      "Name": "lbg3r2",
+      "Text": "信息已录入",
+      "Left": 90,
+      "Top": 378
+    },
+    {
+      "FontSize": 1,
+      "Name": "lbg3r1",
+      "Text": "2017-3-19 15:44:53",
+      "Left": 90,
+      "Top": 343
+    },
+    {
+      "FontSize": 1,
+      "Name": "lbg3l3",
+      "Text": "|",
+      "Left": 53,
+      "Top": 388
+    },
+    {
+      "FontSize": 1,
+      "Name": "lbg3l2",
+      "Text": "○",
+      "Left": 40,
+      "Top": 363
+    },
+    {
+      "FontSize": 1,
+      "Name": "lbg3l1",
+      "Text": "|",
+      "Left": 53,
+      "Top": 333
+    },
+    {
+      "FontSize": 1,
+      "Name": "lbg2r2",
+      "Text": "信息已录入",
+      "Left": 90,
+      "Top": 265
+    },
+    {
+      "FontSize": 1,
+      "Name": "lbg2r1",
+      "Text": "2017-3-19 15:44:53",
+      "Left": 90,
+      "Top": 230
+    },
+    {
+      "FontSize": 1,
+      "Name": "lbg2l3",
+      "Text": "|",
+      "Left": 53,
+      "Top": 275
+    },
+    {
+      "FontSize": 1,
+      "Name": "lbg2l2",
+      "Text": "○",
+      "Left": 40,
+      "Top": 250
+    },
+    {
+      "FontSize": 1,
+      "Name": "lbg2l1",
+      "Text": "|",
+      "Left": 53,
+      "Top": 220
+    },
+    {
+      "FontSize": 1,
+      "Name": "lbg1r2",
+      "Text": "信息已录入",
+      "Left": 90,
+      "Top": 152
+    },
+    {
+      "FontSize": 1,
+      "Name": "lbg1r1",
+      "Text": "2017-3-19 15:44:53",
+      "Left": 90,
+      "Top": 117
+    },
+    {
+      "FontSize": 1,
+      "Name": "lbg1l3",
+      "Text": "|",
+      "Left": 53,
+      "Top": 162
+    },
+    {
+      "FontSize": 1,
+      "Name": "lbg1l2",
+      "Text": "●",
+      "Left": 40,
+      "Top": 137
+    },
+    {
+      "FontSize": 1,
+      "Name": "lbg1l1",
+      "Text": "|",
+      "Left": 53,
+      "Top": 107
+    },
+    {
+      "FontSize": 1,
+      "Name": "lbHint",
+      "Text": "退出：Esc",
+      "Left": 16,
+      "Top": 570
+    },
+    {
+      "FontSize": 3,
+      "Name": "lbInfoTitle",
+      "Text": "圆通速递 11703199808371",
+      "Left": 20,
+      "Top": 12
+    }
+  ],
+  "listSet": [],
+  "panelSet": []
+}

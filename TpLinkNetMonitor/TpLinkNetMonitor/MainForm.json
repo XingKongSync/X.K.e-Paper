@@ -1,0 +1,243 @@
+﻿{
+  "Name": "TpLinkNetMonitor",
+  "buttonSet": [
+    {
+      "Name": "btNext",
+      "FontSize": 1,
+      "TextAlign": 1,
+      "IsChecked": false,
+      "Left": 657,
+      "Top": 545,
+      "Width": 131,
+      "Height": 52,
+      "Text": "下一页",
+      "TextXoffset": 0,
+      "TextYoffset": 0
+    },
+    {
+      "Name": "btPrev",
+      "FontSize": 1,
+      "TextAlign": 1,
+      "IsChecked": false,
+      "Left": 497,
+      "Top": 545,
+      "Width": 131,
+      "Height": 52,
+      "Text": "上一页",
+      "TextXoffset": 0,
+      "TextYoffset": 0
+    }
+  ],
+  "imageSet": [],
+  "labelSet": [
+    {
+      "FontSize": 3,
+      "Name": "lbTitle",
+      "Text": "TP-Link流量监控",
+      "Left": 12,
+      "Top": 9
+    }
+  ],
+  "listSet": [],
+  "panelSet": [
+    {
+      "Name": "plPage",
+      "Left": 22,
+      "Top": 545,
+      "Width": 131,
+      "Height": 52,
+      "buttonSet": [],
+      "imageSet": [],
+      "labelSet": [
+        {
+          "FontSize": 1,
+          "Name": "lbPage",
+          "Text": "第1页，共3页",
+          "Left": 23,
+          "Top": 563
+        }
+      ]
+    },
+    {
+      "Name": "plArea3",
+      "Left": 410,
+      "Top": 357,
+      "Width": 280,
+      "Height": 152,
+      "buttonSet": [],
+      "imageSet": [],
+      "labelSet": [
+        {
+          "FontSize": 1,
+          "Name": "lbArea3Down",
+          "Text": "下载：100KB/S ",
+          "Left": 413,
+          "Top": 471
+        },
+        {
+          "FontSize": 1,
+          "Name": "lbArea3Ip",
+          "Text": "192.168.0.115",
+          "Left": 413,
+          "Top": 397
+        },
+        {
+          "FontSize": 1,
+          "Name": "lbArea3PcName",
+          "Text": "星空-PC  ",
+          "Left": 413,
+          "Top": 360
+        },
+        {
+          "FontSize": 1,
+          "Name": "lbArea3Up",
+          "Text": "上传：100KB/S ",
+          "Left": 413,
+          "Top": 434
+        }
+      ]
+    },
+    {
+      "Name": "plArea1",
+      "Left": 410,
+      "Top": 117,
+      "Width": 280,
+      "Height": 152,
+      "buttonSet": [],
+      "imageSet": [],
+      "labelSet": [
+        {
+          "FontSize": 1,
+          "Name": "lbArea1Down",
+          "Text": "下载：100KB/S ",
+          "Left": 413,
+          "Top": 231
+        },
+        {
+          "FontSize": 1,
+          "Name": "lbArea1Ip",
+          "Text": "192.168.0.115",
+          "Left": 413,
+          "Top": 157
+        },
+        {
+          "FontSize": 1,
+          "Name": "lbArea1PcName",
+          "Text": "星空-PC  ",
+          "Left": 413,
+          "Top": 120
+        },
+        {
+          "FontSize": 1,
+          "Name": "lbArea1Up",
+          "Text": "上传：100KB/S ",
+          "Left": 413,
+          "Top": 194
+        }
+      ]
+    },
+    {
+      "Name": "plArea2",
+      "Left": 22,
+      "Top": 357,
+      "Width": 280,
+      "Height": 152,
+      "buttonSet": [],
+      "imageSet": [],
+      "labelSet": [
+        {
+          "FontSize": 1,
+          "Name": "lbArea2Down",
+          "Text": "下载：100KB/S ",
+          "Left": 25,
+          "Top": 471
+        },
+        {
+          "FontSize": 1,
+          "Name": "lbArea2Ip",
+          "Text": "192.168.0.115",
+          "Left": 25,
+          "Top": 397
+        },
+        {
+          "FontSize": 1,
+          "Name": "lbArea2PcName",
+          "Text": "星空-PC  ",
+          "Left": 25,
+          "Top": 360
+        },
+        {
+          "FontSize": 1,
+          "Name": "lbArea2Up",
+          "Text": "上传：100KB/S ",
+          "Left": 25,
+          "Top": 434
+        }
+      ]
+    },
+    {
+      "Name": "plArea0",
+      "Left": 22,
+      "Top": 117,
+      "Width": 280,
+      "Height": 152,
+      "buttonSet": [],
+      "imageSet": [],
+      "labelSet": [
+        {
+          "FontSize": 1,
+          "Name": "lbArea0Down",
+          "Text": "下载：100KB/S ",
+          "Left": 25,
+          "Top": 231
+        },
+        {
+          "FontSize": 1,
+          "Name": "lbArea0Ip",
+          "Text": "192.168.0.115",
+          "Left": 25,
+          "Top": 157
+        },
+        {
+          "FontSize": 1,
+          "Name": "lbArea0PcName",
+          "Text": "星空-PC  ",
+          "Left": 25,
+          "Top": 120
+        },
+        {
+          "FontSize": 1,
+          "Name": "lbArea0Up",
+          "Text": "上传：100KB/S ",
+          "Left": 25,
+          "Top": 194
+        }
+      ]
+    },
+    {
+      "Name": "plGlobal",
+      "Left": 519,
+      "Top": 8,
+      "Width": 253,
+      "Height": 66,
+      "buttonSet": [],
+      "imageSet": [],
+      "labelSet": [
+        {
+          "FontSize": 1,
+          "Name": "lbGlobalDownload",
+          "Text": "下载：700KB/S",
+          "Left": 541,
+          "Top": 45
+        },
+        {
+          "FontSize": 1,
+          "Name": "lbGlobalUpload",
+          "Text": "上传：100KB/S",
+          "Left": 541,
+          "Top": 9
+        }
+      ]
+    }
+  ]
+}

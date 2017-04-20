@@ -1,0 +1,63 @@
+﻿{
+  "Name": "ApptForm",
+  "buttonSet": [
+    {
+      "Name": "btLaunch",
+      "FontSize": 1,
+      "TextAlign": 1,
+      "IsChecked": false,
+      "Left": 674,
+      "Top": 475,
+      "Width": 113,
+      "Height": 46,
+      "Text": "启动",
+      "TextXoffset": 0,
+      "TextYoffset": 0
+    },
+    {
+      "Name": "btBack",
+      "FontSize": 1,
+      "TextAlign": 1,
+      "IsChecked": false,
+      "Left": 674,
+      "Top": 527,
+      "Width": 113,
+      "Height": 46,
+      "Text": "返回",
+      "TextXoffset": 0,
+      "TextYoffset": 0
+    }
+  ],
+  "imageSet": [
+    {
+      "SkipPreProceed": false,
+      "Width": 64,
+      "Height": 64,
+      "Name": "pbIcon",
+      "Left": 20,
+      "Top": 12
+    }
+  ],
+  "labelSet": [
+    {
+      "FontSize": 3,
+      "Name": "lbAllApps",
+      "Text": "所有应用",
+      "Left": 90,
+      "Top": 15
+    }
+  ],
+  "listSet": [
+    {
+      "Name": "lbApps",
+      "Left": 20,
+      "Top": 89,
+      "Items": [],
+      "Width": 636,
+      "Height": 484,
+      "FontSize": 1,
+      "SelectedIndex": -1
+    }
+  ],
+  "panelSet": []
+}

@@ -1,0 +1,53 @@
+﻿{
+  "Name": "RemotePlayer",
+  "buttonSet": [],
+  "imageSet": [
+    {
+      "SkipPreProceed": false,
+      "Width": 300,
+      "Height": 300,
+      "Name": "pbAlbum",
+      "Left": 12,
+      "Top": 139
+    }
+  ],
+  "labelSet": [
+    {
+      "FontSize": 1,
+      "Name": "lbExit",
+      "Text": "退出：Esc",
+      "Left": 12,
+      "Top": 565
+    },
+    {
+      "FontSize": 1,
+      "Name": "lbAlbum",
+      "Text": "Bloom",
+      "Left": 339,
+      "Top": 395
+    },
+    {
+      "FontSize": 1,
+      "Name": "lbSinger",
+      "Text": "烏丸千歳、久我山八重、片倉京",
+      "Left": 339,
+      "Top": 342
+    },
+    {
+      "FontSize": 2,
+      "Name": "lbName",
+      "Text": "決意のダイヤ",
+      "Left": 339,
+      "Top": 272
+    },
+    {
+      "FontSize": 3,
+      "Name": "lbNowPlaying",
+      "Text": "正在播放",
+      "Left": 335,
+      "Top": 138
+    }
+  ],
+  "listSet": [],
+  "panelSet": []
+}

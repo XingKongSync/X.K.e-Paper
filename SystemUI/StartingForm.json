@@ -1,0 +1,39 @@
+﻿{
+  "Name": "StartingSystemForm",
+  "buttonSet": [],
+  "imageSet": [
+    {
+      "SkipPreProceed": false,
+      "Width": 28,
+      "Height": 29,
+      "Name": "pbCopyright",
+      "Left": 249,
+      "Top": 550
+    },
+    {
+      "SkipPreProceed": false,
+      "Width": 540,
+      "Height": 93,
+      "Name": "pbLogo",
+      "Left": 136,
+      "Top": 154
+    }
+  ],
+  "labelSet": [
+    {
+      "FontSize": 1,
+      "Name": "lbCompany",
+      "Text": "XingKong Corporation",
+      "Left": 280,
+      "Top": 547
+    },
+    {
+      "FontSize": 2,
+      "Name": "lbStarting",
+      "Text": "正在启动",
+      "Left": 296,
+      "Top": 332
+    }
+  ],
+  "panelSet": []
+}
