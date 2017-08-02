@@ -15,8 +15,8 @@ namespace XingKongApp
 {
     public class SystemUI : App
     {
-        private const string TodayWeatherUrl = @"http://api.k780.com:88/?app=weather.today&weaid=101010100&appkey=21431&sign=d47edad482fa3dccb030628ec922f0e3&format=json";
-        private const string FutureWeatherUrl = @"http://api.k780.com:88/?app=weather.future&weaid=101010100&appkey=21431&sign=d47edad482fa3dccb030628ec922f0e3&format=json";
+        private const string TodayWeatherUrl = @"http://api.k780.com/?app=weather.today&weaid=101010100&appkey=21431&sign=d47edad482fa3dccb030628ec922f0e3&format=json";
+        private const string FutureWeatherUrl = @"http://api.k780.com/?app=weather.future&weaid=101010100&appkey=21431&sign=d47edad482fa3dccb030628ec922f0e3&format=json";
         private const string vbDllPath = @"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Microsoft.VisualBasic.dll";
 
         private XingKongWindow currentForm;
