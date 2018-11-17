@@ -1,0 +1,3 @@
+把xingkongos.txt改名为xingkongos，放到/etc/init.d中
+
+sudo update-rc.d xingkongos defaults

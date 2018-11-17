@@ -1,3 +1,4 @@
 ﻿{
-  "PortName" : "COM4"
+	"PortName": "/dev/ttyUSB0",
+	"BackupPortName": "/dev/ttyUSB1"
 }

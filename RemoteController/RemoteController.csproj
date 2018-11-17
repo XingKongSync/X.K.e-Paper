@@ -46,7 +46,7 @@
     <Reference Include="System.Xml" />
     <Reference Include="XingKongUtils, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\XingKongUtils\XingKongUtils\bin\Release\XingKongUtils.dll</HintPath>
+      <HintPath>..\AppLoader\XingKongUtils.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
