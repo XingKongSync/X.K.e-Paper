@@ -1,0 +1,268 @@
+﻿{
+  "Name": "Form1",
+  "buttonSet": [
+    {
+      "Name": "btPower",
+      "FontSize": 1,
+      "IsChecked": false,
+      "Left": 683,
+      "Top": 546,
+      "Width": 100,
+      "Height": 39,
+      "Text": "关机",
+      "TextXoffset": -2,
+      "TextYoffset": 0
+    },
+    {
+      "Name": "btApp",
+      "FontSize": 1,
+      "IsChecked": false,
+      "Left": 560,
+      "Top": 546,
+      "Width": 100,
+      "Height": 39,
+      "Text": "应用",
+      "TextXoffset": -2,
+      "TextYoffset": 0
+    }
+  ],
+  "imageSet": [
+    {
+      "SkipPreProceed": false,
+      "Width": 100,
+      "Height": 100,
+      "Name": "pbPower",
+      "Left": 683,
+      "Top": 443
+    },
+    {
+      "SkipPreProceed": false,
+      "Width": 100,
+      "Height": 100,
+      "Name": "pbApp",
+      "Left": 560,
+      "Top": 443
+    },
+    {
+      "SkipPreProceed": false,
+      "Width": 160,
+      "Height": 160,
+      "Name": "pbWeatherIcon",
+      "Left": 21,
+      "Top": 185
+    },
+    {
+      "SkipPreProceed": false,
+      "Width": 70,
+      "Height": 112,
+      "Name": "pbM2",
+      "Left": 339,
+      "Top": 17
+    },
+    {
+      "SkipPreProceed": false,
+      "Width": 70,
+      "Height": 112,
+      "Name": "pbM1",
+      "Left": 258,
+      "Top": 17
+    },
+    {
+      "SkipPreProceed": false,
+      "Width": 70,
+      "Height": 112,
+      "Name": "pbS",
+      "Left": 188,
+      "Top": 17
+    },
+    {
+      "SkipPreProceed": false,
+      "Width": 70,
+      "Height": 112,
+      "Name": "pbH2",
+      "Left": 118,
+      "Top": 17
+    },
+    {
+      "SkipPreProceed": false,
+      "Width": 70,
+      "Height": 112,
+      "Name": "pbH1",
+      "Left": 37,
+      "Top": 17
+    }
+  ],
+  "labelSet": [],
+  "panelSet": [
+    {
+      "Name": "panel1",
+      "Left": 443,
+      "Top": 17,
+      "Width": 310,
+      "Height": 112,
+      "buttonSet": [],
+      "imageSet": [],
+      "labelSet": [
+        {
+          "FontSize": 2,
+          "Name": "lbWeek",
+          "Text": "星期二",
+          "Left": 540,
+          "Top": 78
+        },
+        {
+          "FontSize": 2,
+          "Name": "lbDate",
+          "Text": "2016-10-25",
+          "Left": 503,
+          "Top": 30
+        }
+      ]
+    },
+    {
+      "Name": "panel2",
+      "Left": 199,
+      "Top": 172,
+      "Width": 360,
+      "Height": 224,
+      "buttonSet": [],
+      "imageSet": [],
+      "labelSet": [
+        {
+          "FontSize": 2,
+          "Name": "lbWeather",
+          "Text": "晴转多云",
+          "Left": 320,
+          "Top": 185
+        },
+        {
+          "FontSize": 1,
+          "Name": "lbCity",
+          "Text": "北京",
+          "Left": 219,
+          "Top": 190
+        },
+        {
+          "FontSize": 1,
+          "Name": "lbTemp",
+          "Text": "17℃ ~ 10℃",
+          "Left": 320,
+          "Top": 237
+        },
+        {
+          "FontSize": 1,
+          "Name": "lbWind",
+          "Text": "西北风 1级",
+          "Left": 320,
+          "Top": 275
+        },
+        {
+          "FontSize": 1,
+          "Name": "lbTomoTemp",
+          "Text": "17℃ ~ 10℃",
+          "Left": 320,
+          "Top": 362
+        },
+        {
+          "FontSize": 1,
+          "Name": "lbTomorrow",
+          "Text": "明天",
+          "Left": 219,
+          "Top": 324
+        },
+        {
+          "FontSize": 1,
+          "Name": "lbTomoWeatherAndWind",
+          "Text": "多云 西北风 1级",
+          "Left": 320,
+          "Top": 324
+        }
+      ]
+    },
+    {
+      "Name": "panel3",
+      "Left": 586,
+      "Top": 172,
+      "Width": 197,
+      "Height": 173,
+      "buttonSet": [],
+      "imageSet": [],
+      "labelSet": [
+        {
+          "FontSize": 2,
+          "Name": "lbTempCurrDesc",
+          "Text": "实时温度",
+          "Left": 588,
+          "Top": 185
+        },
+        {
+          "FontSize": 3,
+          "Name": "lbTempCurr",
+          "Text": "11℃",
+          "Left": 592,
+          "Top": 240
+        }
+      ]
+    },
+    {
+      "Name": "panel4",
+      "Left": 17,
+      "Top": 417,
+      "Width": 432,
+      "Height": 177,
+      "buttonSet": [],
+      "imageSet": [],
+      "labelSet": [
+        {
+          "FontSize": 1,
+          "Name": "lbRamStatus",
+          "Text": "71.3MB / 448.0MB",
+          "Left": 114,
+          "Top": 555
+        },
+        {
+          "FontSize": 1,
+          "Name": "lbIp",
+          "Text": "192.168.0.100",
+          "Left": 114,
+          "Top": 471
+        },
+        {
+          "FontSize": 1,
+          "Name": "lbCpuUsage",
+          "Text": "CPU",
+          "Left": 19,
+          "Top": 513
+        },
+        {
+          "FontSize": 1,
+          "Name": "lbRamUsage",
+          "Text": "RAM",
+          "Left": 19,
+          "Top": 555
+        },
+        {
+          "FontSize": 1,
+          "Name": "label4",
+          "Text": "系统状态",
+          "Left": 19,
+          "Top": 426
+        },
+        {
+          "FontSize": 1,
+          "Name": "lbCpuStatus",
+          "Text": "0.7%  48.7℃",
+          "Left": 114,
+          "Top": 513
+        },
+        {
+          "FontSize": 1,
+          "Name": "label3",
+          "Text": "IP",
+          "Left": 19,
+          "Top": 471
+        }
+      ]
+    }
+  ]
+}
