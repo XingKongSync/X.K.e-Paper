@@ -85,7 +85,7 @@ static void Main(string[] args)
     Application.Run(new YourForm());
 }
 ```
-1. 在你的 Form 的 Load 事件中执行如下代码<br>
+4. 在你的 Form 的 Load 事件中执行如下代码<br>
 ```C#
 private void YourForm_Load(object sender, EventArgs e)
 {
@@ -96,4 +96,4 @@ private void YourForm_Load(object sender, EventArgs e)
     ShowCode();
 }
 ```
-1. 运行 `XingKongFormGenerator` 后会生成界面的 json 代码，保存此 json 并在你的 App 中进行加载
+5. 运行 `XingKongFormGenerator` 后会生成界面的 json 代码，保存此 json 并在你的 App 中进行加载
